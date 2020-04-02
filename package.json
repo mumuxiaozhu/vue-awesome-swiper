@@ -46,7 +46,7 @@
     "release": ". ./scripts/release.sh"
   },
   "peerDependencies": {
-    "swiper": "git://github.com/mumuxiaozhu/swiper.git#master",
+    "swiper": "^5.2.0",
     "vue": "2.x"
   },
   "devDependencies": {
